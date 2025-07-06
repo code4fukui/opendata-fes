@@ -6,39 +6,34 @@ DTSTART:20250530T150000Z
 DTEND:20250530T150000Z
 SUMMARY:GREEN FLASH FES - 福井県坂井市の誰もが気軽に楽しめる音楽フェス
 LOCATION:https://www.google.com/maps?ll=36.250571559213526%2C136.17588782197836
-DESCRIPTION:https://green-flash-fes.com/
-福井県坂井市の誰もが気軽に楽しめる音楽フェス。
+DESCRIPTION:https://green-flash-fes.com/\\n福井県坂井市の誰もが気軽に楽しめる音楽フェス。
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250829T150000Z
 DTEND:20250830T150000Z
 SUMMARY:六呂師 Starry Music Festival 2025 - 星たちとうたう。
 LOCATION:https://www.google.com/maps?ll=36.01991566326272%2C136.57318498196412
-DESCRIPTION:https://starrymusic.camp/
-星空保護区・六呂師高原で初開催される音楽とキャンプの祭典。2025年夏、星と音に包まれる特別な2日間を。出演アーティスト（第1弾）1日目：ACIDMAN、androp、JUN SKY WALKER(S)、レトロリロン、2日目Chara、水曜日のカンパネラ、iri、SPECIAL OTHERSがラインナップ！
+DESCRIPTION:https://starrymusic.camp/\\n星空保護区・六呂師高原で初開催される音楽とキャンプの祭典。2025年夏、星と音に包まれる特別な2日間を。出演アーティスト（第1弾）1日目：ACIDMAN、androp、JUN SKY WALKER(S)、レトロリロン、2日目Chara、水曜日のカンパネラ、iri、SPECIAL OTHERSがラインナップ！
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250912T150000Z
 DTEND:20250913T150000Z
 SUMMARY:おぼろっく2025
 LOCATION:https://www.google.com/maps?ll=35.662246608748674%2C136.0732611898593
-DESCRIPTION:https://oborock.com/
-おぼろっく2025～TSURUGA MUSIC FESTIVAL～公式サイト。「福井県」敦賀湾に面した金ヶ崎緑地を中心としたエリアで、食・文化・人にも触れてもらえるような地元密着のフェス開催。
+DESCRIPTION:https://oborock.com/\\nおぼろっく2025～TSURUGA MUSIC FESTIVAL～公式サイト。「福井県」敦賀湾に面した金ヶ崎緑地を中心としたエリアで、食・文化・人にも触れてもらえるような地元密着のフェス開催。
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250905T150000Z
 DTEND:20250906T150000Z
 SUMMARY:ONE PARK FESTIVAL 2025
 LOCATION:https://www.google.com/maps?ll=36.06462429507697%2C136.21958034852412
-DESCRIPTION:https://oneparkfestival.jp/
-ONE PARK FESTIVAL 2025（ワンパークフェスティバル）は福井市中央公園特設会場で開催される街全体が一つのテーマパークになる音楽フェスです。
+DESCRIPTION:https://oneparkfestival.jp/\\nONE PARK FESTIVAL 2025（ワンパークフェスティバル）は福井市中央公園特設会場で開催される街全体が一つのテーマパークになる音楽フェスです。
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T150000Z
 DTEND:20251018T150000Z
 SUMMARY:鯖江JAZZフェスティバル2025
 LOCATION:https://www.google.com/maps?ll=35.950820505004316%2C136.18198445358942
-DESCRIPTION:https://sabaejazz.jp/
-鯖江JAZZフェスティバル2025は、福井県鯖江市のシンボルである西山公園を舞台に、これまでにない音楽体験をお届けする音楽フェスです。
+DESCRIPTION:https://sabaejazz.jp/\\n鯖江JAZZフェスティバル2025は、福井県鯖江市のシンボルである西山公園を舞台に、これまでにない音楽体験をお届けする音楽フェスです。
 END:VEVENT
 END:VCALENDAR
