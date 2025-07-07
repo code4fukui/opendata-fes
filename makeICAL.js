@@ -9,8 +9,8 @@ for (const item of data) {
   //const pos = "https://maps.google.com/?ll=" + ll.lat + "," + ll.lng;
   const pos = `https://www.google.com/maps?ll=${ll.lat}%2C${ll.lng}`;
   list.push({
-    DTSTART: item.start,
-    DTEND: item.end,
+    DTSTART: item.start + " 00:00",
+    DTEND: item.end + " 24:00",
     SUMMARY: item.title,
     LOCATION: pos,
     DESCRIPTION: item.url + "\n" + item.ogpdescription,
